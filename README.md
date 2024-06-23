@@ -24,3 +24,15 @@
 ```bash
     composer install
 ```
+
+- Sair do bash terminal -> exit
+
+### Instalar dependências NPM
+```bash
+    npm install
+```
+
+### Rodar localmente
+```bash
+    npm run dev
+```
